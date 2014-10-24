@@ -3,6 +3,8 @@
 .settings
 .classpath
 .project
+.iml
+.idea
 target
 
 # no sql DDL stuff
